@@ -7,6 +7,8 @@
           否则无法渲染出来  
      -->
     <img src="~assets/img/01.jpg" alt="">
+
+    <h2>2021.01.22</h2>
   </div>
 </template>
 

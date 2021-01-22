@@ -1,12 +1,15 @@
 <template>
   <div id="app">
+
+    <!-- 使用组件 -->
     <sss01></sss01>
   </div>
 </template>
 
 <script>
 // 要想在这里注册组件，一定要导入！！！！
-import sss01 from 'components/sss01.vue'
+// import sss01 from 'components/sss01.vue'
+import sss01 from './components/sss01.vue'
     //  配置之后路径中就可以直接使用别名
 
 export default {
